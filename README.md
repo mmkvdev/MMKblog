@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+### Blog Build using NextJS
+
+### Check out this repo for more interesting resources on NextJS[VIL](https://github.com/Madhu5A3/VIL/tree/master/NextJS)
