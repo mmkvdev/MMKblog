@@ -16,7 +16,7 @@ const SocialMedia = () => {
                 className={styles.facebookcontainer}>
                 <FontAwesomeIcon icon={faFacebook} size="2x" />
             </a>
-            <a href="https://https://github.com/Madhu5A3"
+            <a href="https://github.com/Madhu5A3"
                 className={styles.githubcontainer}>
                 <FontAwesomeIcon icon={faGithub} size="2x" />
             </a>
