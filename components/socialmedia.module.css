@@ -4,17 +4,6 @@
     padding: 100px 150px;
 }
 
-/* Youtube Styles*/
-a.youtubecontainer {
-    margin: 0 1rem;
-    transition: transform 250ms;
-    display: inline-block;
-}
-
-a.youtubecontainer:hover {
-    transform: translateY(-2px);
-}
-
 /* Facebook Styles*/
 a.facebookcontainer {
     margin: 0 1rem;
@@ -23,6 +12,17 @@ a.facebookcontainer {
 }
 
 a.facebookcontainer:hover {
+    transform: translateY(-2px);
+}
+
+/* Github Styles*/
+a.githubcontainer {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+a.githubcontainer:hover {
     transform: translateY(-2px);
 }
 
@@ -63,4 +63,8 @@ a.linkedincontainer {
 
 a.twittercontainer {
     color: #49a1eb;
+}
+
+a.githubcontainer {
+    color: black;
 }
