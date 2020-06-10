@@ -1,0 +1,66 @@
+/* Social Media Styles*/
+
+.socialcontainer {
+    padding: 100px 150px;
+}
+
+/* Youtube Styles*/
+a.youtubecontainer {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+a.youtubecontainer:hover {
+    transform: translateY(-2px);
+}
+
+/* Facebook Styles*/
+a.facebookcontainer {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+a.facebookcontainer:hover {
+    transform: translateY(-2px);
+}
+
+/* LinkedIn Styles*/
+a.linkedincontainer {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+a.linkedincontainer:hover {
+    transform: translateY(-2px);
+}
+
+/* Twitter Styles*/
+a.twittercontainer {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+a.twittercontainer:hover {
+    transform: translateY(-2px);
+}
+
+
+a.youtubecontainer {
+    color: #eb3223;
+}
+
+a.facebookcontainer {
+    color: #4968ad;
+}
+
+a.linkedincontainer {
+    color: #0077b5;
+}
+
+a.twittercontainer {
+    color: #49a1eb;
+}
