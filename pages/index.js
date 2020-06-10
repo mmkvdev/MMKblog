@@ -4,6 +4,7 @@ import utilStyles from '../styles/utils.module.css'
 import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/Date'
+import SocialMedia from '../components/SocialMedia';
 
 export default function Home({ allPostsData }) {
   return (
@@ -28,6 +29,7 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
+      <SocialMedia />
     </Layout>
   )
 }
