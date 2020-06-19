@@ -6,7 +6,6 @@ body {
     Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
-  background-color: ghostwhite;
 }
 
 * {
@@ -25,4 +24,39 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  padding: 20px;
+}
+
+.light-mode {
+  background-color: ghostwhite;
+  color: #333
+}
+
+.dark-mode p {
+  color: ghostwhite;    
+}
+
+.dark-mode {
+  background-color: #282c35;
+  color: #999;
+}
+
+.dark-mode nav {
+  background-color: #282c35;
+}
+
+.darkmodeToggleContainer {
+  margin-top: 2rem;
+  padding-left: 900px;
+}
+
+.footerContainer {
+  text-align: center;
+  font-size: 1rem;
+  margin: 2px;
 }
