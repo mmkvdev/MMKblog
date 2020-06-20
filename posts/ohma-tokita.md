@@ -5,7 +5,7 @@ date: '2020-06-08'
 
 Tokita Ohma (十鬼蛇 王馬, Tokita Ōma; "Ohma Tokita"), also known as The Asura (阿修羅, Ashura), is a man who loves to fight. He entered into the Kengan Association, fighting for the Nogi Group. During the Kengan Annihilation Tournament, Ohma fought for Yamashita Trading Co. with Yamashita Kazuo as his employer.
 
-History
+### History
 
 During one point in his childhood, as a nameless youth, Ohma raced back to his residence after stealing from the yakuza. However, the yakuza came after him with one of their enforcers, Ando Jiro, pummeling him, despite Ohma's good showing. Seeing no other option, Ohma grabbed Ando and jumped out of the building they were in, much to Ando's sheer horror. Impressed by Ohma's sheer resolve, the yakuza's other enforcer, Tokita Niko, saved Ohma's life and offered to teach him his Niko Style.
 
