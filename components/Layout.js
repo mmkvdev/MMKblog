@@ -2,14 +2,10 @@ import Head from 'next/head'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
-// import { ThemeProvider } from "../components/DarkMode/ThemeContext";
-// import DarkModeToggle from "react-dark-mode-toggle";
-// import { useState } from 'react';
 const name = 'Madhu Kiran Varma'
 export const siteTitle = 'MMK Blog'
 
 export default function Layout({ children, home }) {
-    // const [isDarkMode, setIsDarkMode] = useState(() => false);
     return (
         <div className={styles.container}>
             <Head>
