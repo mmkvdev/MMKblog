@@ -34,7 +34,6 @@ nav {
 
 .light-mode {
   background-color: ghostwhite;
-  color: #333
 }
 
 .dark-mode p {
@@ -43,7 +42,7 @@ nav {
 
 .dark-mode {
   background-color: #282c35;
-  color: #999;
+  color: #25b983;
 }
 
 .dark-mode nav {
@@ -59,4 +58,8 @@ nav {
   text-align: center;
   font-size: 1rem;
   margin: 2px;
+}
+
+.custom404 {
+  text-align: center;
 }
