@@ -1,6 +1,8 @@
 import styles from '../styles/global.css'
 import DarkModeToggle from "react-dark-mode-toggle";
+import GithubCorner from 'react-github-corner';
 import { useState, useEffect } from 'react';
+
 
 
 export default function MyApp({ Component, pageProps }) {
@@ -10,6 +12,7 @@ export default function MyApp({ Component, pageProps }) {
         <div className={isDarkMode ? "dark-mode" : "light-mode"}>
             <nav>
                 <div className="darkmodeToggleContainer">
+                    <GithubCorner href="https://github.com/Madhu5A3/MMKblog" />
                     <DarkModeToggle
                         onChange={setIsDarkMode}
                         checked={isDarkMode}
