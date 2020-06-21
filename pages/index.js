@@ -7,7 +7,6 @@ import Date from '../components/Date'
 import SocialMedia from '../components/SocialMedia';
 
 
-
 export default function Home({ allPostsData }) {
   return (
     <Layout home>
