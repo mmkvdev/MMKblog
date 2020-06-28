@@ -12,7 +12,7 @@ export default function MyApp({ Component, pageProps }) {
         <div className={isDarkMode ? "dark-mode" : "light-mode"}>
             <nav>
                 <div className="darkmodeToggleContainer">
-                    <GithubCorner href="https://github.com/Madhu5A3/MMKblog" />
+                    <GithubCorner href="https://github.com/mmkvdev/MMKblog" />
                     <DarkModeToggle
                         onChange={setIsDarkMode}
                         checked={isDarkMode}
@@ -23,7 +23,7 @@ export default function MyApp({ Component, pageProps }) {
             </nav>
             <Component {...pageProps} />
             <p className="footerContainer">
-                Made with <span role="img">🕶</span> by <a href="https://github.com/Madhu5A3">MMK</a>
+                Made with <span role="img">🕶</span> by <a href="https://github.com/mmkvdev/">MMK</a>
             </p>
         </div>
     )
